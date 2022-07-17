@@ -1,6 +1,8 @@
 require('./config')() // Setup env variables to process.env from env.js
+require('./swagger')
 
 const app = require('../app');
+
 
 // Create HTTP Server
 const server = require('http').createServer(app)
