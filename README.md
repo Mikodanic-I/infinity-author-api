@@ -1,2 +1,2 @@
-# e-author-api
+# infinity-author-api
 API for an app that makes e books really easy to write and manage.
